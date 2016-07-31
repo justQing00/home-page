@@ -1,7 +1,4 @@
-# home-page
-A good web home page for you
+# Laravel PHP
 
 
-# comments
-
-origin: /Applications/XAMPP/xamppfiles/htdocs
+### origin :/Applications/XAMPP/xamppfiles/htdocs
