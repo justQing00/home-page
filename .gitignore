@@ -16,4 +16,5 @@ jiggly.json
 vendor_modules/
 components_vendor/
 *.log
-
+*.zip
+*.tar
